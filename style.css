@@ -1,0 +1,43 @@
+#title {
+    color: black;
+    font-size: 38px;
+    text-align: center;
+}
+
+
+.name1 {
+    background-color: rgb(132, 218, 218);
+    color: rgb(12, 2, 120);
+}
+
+.name2 {
+    background-color: blueviolet;
+    color: rgb(193, 207, 34);
+}
+
+.name3 {
+    background-color: rgb(38, 0, 255);
+    color: lightsalmon;
+}
+
+.name4 {
+    background-color: gold;
+    color: rgb(77, 128, 22);
+}
+
+
+<!-- The Recipes come next -->
+
+
+.bur-top {
+    background-color:  rgb(132, 218, 218);
+}
+
+img {
+    height: auto;
+    width: 500px
+}
+
+h1 {
+    text-align: center;
+}
